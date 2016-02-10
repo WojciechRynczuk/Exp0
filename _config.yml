@@ -12,6 +12,7 @@ timezone: null
 lsi: false
 markdown: kramdown
 highlighter: rouge
+regenerate: true
 
 
 ### content configuration ###

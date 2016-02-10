@@ -18,8 +18,8 @@ title:       "vcdMaker Home Page"
 keywords:    "vcdMaker, vcd, variable change dump, log, debug trace, debugging, embedded"
 description: "vcdMaker Home Page"
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/log-wave.png"
-touch_icon:  "img/log-wave.png"
+favicon:     "img/Electronics-48.png"
+touch_icon:  "img/Electronics-48.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
